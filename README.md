@@ -61,10 +61,7 @@
 ---
 
 ### 📌 Featured Projects
-- 🔹 Add your best project here  
-- 🔹 Example: Cybersecurity Tool  
-- 🔹 Example: Web App  
-- 🔹 Example: Arduino Project  
+
 
 ---
 

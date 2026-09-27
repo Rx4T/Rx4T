@@ -118,26 +118,23 @@ Areas I've explored through projects and events:
 ## 📊 GitHub Activity
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Rx4T&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-
+  <img src="https://streak-stats.demolab.com?user=Rx4T&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
 ### ⚡ Building consistently
 
-> **Current streak:** Keep it going 🔥  
-> **Goal:** Make meaningful contributions regularly — projects, fixes, documentation, experiments and learning.
-
-The streak is based on actual GitHub contributions, so the best way to improve it is to keep shipping real work rather than making empty commits. GitHub contribution-based streak tools count activity such as commits, pull requests, issues and reviews. citeturn0search1
+The streak reflects real GitHub contribution activity. The best way to grow it is through meaningful work — shipping projects, fixing bugs, improving documentation, contributing to repositories and learning in public.
 
 ---
 
 ## 🐍 Contribution Activity
 
 <p align="center">
-
-<img src="./output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rx4T/Rx4T/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rx4T/Rx4T/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Rx4T/Rx4T/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+  </picture>
 </p>
 
 ---

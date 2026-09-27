@@ -115,35 +115,43 @@ Areas I've explored through projects and events:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rx4T&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Rx4T&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
-<img src="https://streak-stats.demolab.com?user=Rx4T&theme=tokyonight&hide_border=true" />
+</p>
+
+### ⚡ Building consistently
+
+> **Current streak:** Keep it going 🔥  
+> **Goal:** Make meaningful contributions regularly — projects, fixes, documentation, experiments and learning.
+
+The streak is based on actual GitHub contributions, so the best way to improve it is to keep shipping real work rather than making empty commits. GitHub contribution-based streak tools count activity such as commits, pull requests, issues and reviews. citeturn0search1
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+
+<img src="./output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
 
 </p>
 
 ---
 
-## 📈 Most Used Languages
+## 💻 What I'm Building With
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rx4T&layout=compact&theme=tokyonight&hide_border=true" />
-
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Rx4T&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-
-</p>
+| Area | Current Focus |
+|---|---|
+| 🔐 Cybersecurity | Network security, ethical hacking, AI security |
+| 🤖 AI | AI/ML, AI agents, developer tools |
+| 🌐 Web | Full-stack applications & dashboards |
+| ⛓️ Web3 | Blockchain fundamentals & Solidity |
+| ☁️ Cloud | AWS & cloud-native development |
+| 🧩 Engineering | Building, testing and shipping projects |
 
 ---
 
